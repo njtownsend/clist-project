@@ -1,2 +1,2 @@
 # clist-project
-Simply craiglist project inspired by CJ at https://github.com/CodingGarden
+Simply craigslist project inspired by CJ at https://github.com/CodingGarden
